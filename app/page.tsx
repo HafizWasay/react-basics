@@ -3,12 +3,12 @@ import User from "@/components/User";
 
 export default function Home() {
   const users = [
-    { id: "1", name: "safa", email: "safa@gmail.com", phone: "1234567" },
-    { id: "2", name: "safa", email: "safa@gmail.com", phone: "1234567" },
-    { id: "3", name: "safa", email: "safa@gmail.com", phone: "1234567" },
-    { id: "4", name: "safa", email: "safa@gmail.com", phone: "1234567" },
-    { id: "5", name: "safa", email: "safa@gmail.com", phone: "1234567" },
-    { id: "6", name: "safa", email: "safa@gmail.com", phone: "1234567" }
+    { id: "1", name: "Abdul Wasay", email: "Abdul Wasay@gmail.com", phone: "1234567" },
+    { id: "2", name: "Abdul Wasay", email: "Abdul Wasay@gmail.com", phone: "1234567" },
+    { id: "3", name: "Abdul Wasay", email: "Abdul Wasay@gmail.com", phone: "1234567" },
+    { id: "4", name: "Abdul Wasay", email: "Abdul Wasay@gmail.com", phone: "1234567" },
+    { id: "5", name: "Abdul Wasay", email: "Abdul Wasay@gmail.com", phone: "1234567" },
+    { id: "6", name: "Abdul Wasay", email: "Abdul Wasay@gmail.com", phone: "1234567" }
   ];
 
   return (
